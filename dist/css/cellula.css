@@ -1,0 +1,27 @@
+.topbar-form {
+  border-color: transparent;
+  width: 360px;
+  height: 30px;
+}
+.topbar-input-group {
+  height: 25px;
+}
+.topbar-small{
+  /*width: 30px;*/
+  height: 28px;
+  vertical-align:middle;
+}
+.skin-blue .sidebar-form input[type="text"],
+.skin-blue .sidebar-form .btn {
+  box-shadow: none;
+  background-color: #374850;
+  border: 1px solid transparent;
+  height: 28px;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  vertical-align:middle;
+}
+.topbar-search-left {
+ text-align: left;
+}
